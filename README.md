@@ -31,9 +31,9 @@
  
  ## 👇🏻🧜🏻‍♂️🧚🏽‍♂️ Project structured 
  
- ###### In this project you will see separate examples packages : SRP , OCP , LSP , ISP , DIPS
+ ###### In this project you will see separate examples packages : SRP , OCP , LSP , ISP , DIP
  ###### With differnce study cases 
  
- 
+ ## 🧔 Happy Learning
   
   
