@@ -1,10 +1,6 @@
 package com.solid.principle.dip.bestpractice;
 
-/**
- * This class is tightly coupled with DebitCard class , which is against Dependency Inversion
- * Root cause : what if we want to change payment to credit card ? we will change constructor,method and main method
- * NOTE : In java there is no concept you can completely make zero losely coupled , we need to rely on design pattern
- */
+
 public class ShoppingMall {
 
     private BankCard bankCard;
