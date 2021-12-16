@@ -17,7 +17,7 @@ public class ShoppingMall {
 
     /**
      * now you can only change one line and implement polymorphysm
-     *
+     * in java we cannot make 0% coupled  , that's why we need to rely on design pattern
      * @param args
      */
     public static void main(String[] args) {
